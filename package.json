@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "mocha": "~1.17.1",
-    "protractor": "~0.18.1",
+    "protractor": "~1.0.0",
     "expect.js": "~0.2.0"
   },
   "devDependencies": {
